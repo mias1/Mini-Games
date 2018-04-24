@@ -3,7 +3,7 @@ package Engine;
 import java.util.Random;
 import java.util.Scanner;
 
-public class engine {
+public class engine1 {
 	
 	public static void main(String[] args) {
 		Scanner scanf = new Scanner(System.in); 
